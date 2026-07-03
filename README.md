@@ -77,4 +77,4 @@ prakrit-brahmi-converter/
 
 ## Author
 
-Pankaj Sharma
+Pankaj Sarwa
